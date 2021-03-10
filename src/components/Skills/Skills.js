@@ -10,9 +10,9 @@ function Skills() {
                 <div className='column left'>
                     <div className='text'>Mes expériences</div>
                     <p>
-                        Durant ma formation j'ai participé à 3 project d'équipe. Le premier consistait à la réalisation d'un site static
-                        en utilisant uniquement HTML/CSS. Pour le second project réalisé, toujours en équipe nous avons décidé de moderniser
-                        le site du muséum d'Harvard. Pour cela nous avons utilisé React comme librairie et nous nous sommes servi de l'API du musée.
+                        Durant ma formation j'ai participé à 3 projets d'équipe. Le premier consistait à la réalisation d'un site statique
+                        en utilisant uniquement HTML/CSS. Pour le second projet réalisé, toujours en équipe nous avons décidé de moderniser
+                        le site du musée d'Harvard. Pour cela nous avons utilisé React comme librairie et nous nous sommes servi de l'API du musée.
                         Notre troisième réalisation était un projet client. Nos clients étaient deux associés ayant racheté un parc d'accrobranche
                         situé à Milly-la-Forêt (91) et souhaitant en même temps refaire le site internet vieillissant de celui-ci.
                     </p>

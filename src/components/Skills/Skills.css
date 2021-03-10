@@ -123,6 +123,9 @@ section {
     .skills .skills-content .column{
         width: 100%;
     }
+    .skills .title::before {
+        width: 300px;
+    } 
 }
 
 @media screen and (max-width: 390px) {
