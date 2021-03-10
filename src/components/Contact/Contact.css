@@ -132,3 +132,37 @@ section {
     color: #69d75b;
     background: none;
 }
+
+@media screen and (max-width:1300px){
+    .home .max-width {
+        margin-left: 0px ;
+    }
+}
+
+@media screen and (max-width:991px){
+    .max-width {
+        padding: 0 50px;
+    }
+}
+
+@media screen and (max-width:947px) {
+    .max-width {
+        max-width: 800px;
+    }
+    .contact .contact-content .column{
+        width: 100%;
+        margin-bottom: 35px;
+    }
+}
+
+@media screen and (max-width:690px){
+    .max-width{
+        padding: 0 23px;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    .contact .title::before {
+        width: 280px;
+    } 
+}
