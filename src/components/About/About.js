@@ -14,8 +14,8 @@ function About() {
                 <div className='column right'>
                     <div className='text'>Je m'appelle <span>Christopher</span></div>
                     <p>
-                        J’ai choisie de me reconvertir dans le développement web après avoir découvert celui-ci durant
-                     un module universitaire lors de mes études en communication. J’ai donc choisie une formation en 
+                        J’ai choisi de me reconvertir dans le développement web après avoir découvert celui-ci durant
+                     un module universitaire lors de mes études en communication. J’ai porté mon choix sur une formation en 
                      campus à la Wild Code School axée sur la pratique permettant de développer mes connaissances et capacités à travers des 
                      projets. Je suis actuellement à la recherche d'un stage pouvant durée de 4 à 6 mois dans le but de compléter
                       cette formation. Mon objectif est d'obtenir à l'issue de ce stage un diplôme de niveau bac + 2 de développeur web et mobile.
