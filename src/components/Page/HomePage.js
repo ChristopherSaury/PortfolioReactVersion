@@ -1,6 +1,6 @@
 import React from 'react'
 import About from '../About/About'
-import Contact from '../Contact/Contact'
+import ContactEmailjs from '../Contact/ContactEmailJs'
 import Footer from '../Footer/Footer'
 import Home from '../Home/Home'
 import Navbar from '../Navbar/Navbar'
@@ -15,7 +15,7 @@ function HomePage() {
             <About/>
             <Skills/>
             <Project/>
-            <Contact/>
+            <ContactEmailjs/>
             <Footer/>
         </div>
     )
