@@ -1,5 +1,6 @@
 import React from 'react';
 import ChrisPic from '../../images/chris.jpg';
+import CV from '../../images/christopher-saury-cv.pdf'
 import './About.css';
 
 function About() {
@@ -20,7 +21,7 @@ function About() {
                      projets. Je suis actuellement à la recherche d'un stage pouvant durée de 4 à 6 mois dans le but de compléter
                       cette formation. Mon objectif est d'obtenir à l'issue de ce stage un diplôme de niveau bac + 2 de développeur web et mobile.
                     </p>
-                    <a href='cv'>Télécharger CV</a>
+                    <a href={CV} target='blank'>Télécharger CV</a>
                 </div>
             </div>
         </div>
