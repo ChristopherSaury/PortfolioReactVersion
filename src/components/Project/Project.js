@@ -28,7 +28,7 @@ function Project() {
                     <div className='box'>
                         <a href="https://paris-js-0920-atoutbranches-front-six.vercel.app/"><img src={Atbphoto} alt='atout branches logo'/></a>
                         <div className='text'>Atout Branches</div>
-                        <p>Version démo du site (front seulement). La version finale sera déployée par le propriétaire du parc en Avril 2021</p>
+                        <p>Version démo du site (front seulement). La version finale sera déployée par le propriétaire du parc en Mai 2021</p>
                     </div>
                 </div>
             </div>
