@@ -26,9 +26,9 @@ function Project() {
                 </div>
                 <div className='card'>
                     <div className='box'>
-                        <a href="https://paris-js-0920-atoutbranches-front-six.vercel.app/"><img src={Atbphoto} alt='atout branches logo'/></a>
+                        <a href="https://www.atoutbranches.com/"><img src={Atbphoto} alt='atout branches logo'/></a>
                         <div className='text'>Atout Branches</div>
-                        <p>Version démo du site (front seulement). La version finale sera déployée par le propriétaire du parc en Mai 2021</p>
+                        <p>Il s'agit ici d'un projet pour un client. Voici le site internet du parc d'accrobranche Atout Branches qui est situé à Milly-la-Forêt dans le 91.</p>
                     </div>
                 </div>
             </div>
